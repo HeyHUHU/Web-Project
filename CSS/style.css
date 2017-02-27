@@ -3534,7 +3534,7 @@ header {
 header #logo {
 	width: 100%;
 	overflow: hidden;
-	background: url("../images/樱桃.png") 2.6rem 1rem no-repeat;
+	background: url("../images/cherry.png") 2.6rem 1rem no-repeat;
 	margin-bottom: 2rem;
 }
 
@@ -3555,7 +3555,7 @@ header #logo {
 	border: 2px solid #046903;
 	border-right: none;
 	padding-left: 4rem;
-	background: url("../images/搜索.png") 0.5rem 0.7rem no-repeat;
+	background: url("../images/ser.png") 0.5rem 0.7rem no-repeat;
 	margin-left: 9%;
 	margin-top: 3rem;
 	color: #999;
